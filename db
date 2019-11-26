@@ -1,0 +1,34 @@
+{
+    "Materiales": [
+        {
+          "id": 1,
+          "Material": "Cemento",
+          "Precio": 85,
+          "Unidades": 130
+      },
+      {
+          "id": 2,
+          "Material": "Yeso",
+          "Precio": 60,
+          "Unidades": 20
+      },
+      {
+          "id": 3,
+          "Material": "Tabiques",
+          "Precio": 2,
+          "Unidades": "10000"
+      },
+      {
+          "id": 4,
+          "Material": "Azulejo Azul",
+          "Precio": 30,
+          "Unidades": 100
+      },
+      {
+          "id": 5,
+          "Material": "Tablaroca",
+          "Precio": 150,
+          "Unidades": 200
+      }
+    ]
+}
